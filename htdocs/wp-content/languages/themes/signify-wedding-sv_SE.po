@@ -1,0 +1,129 @@
+# Translation of Themes - Signify Wedding in Swedish
+# This file is distributed under the same license as the Themes - Signify Wedding package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-09-14 12:05:45+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Themes - Signify Wedding\n"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Signify Wedding"
+msgstr "Signify Wedding"
+
+#. translators: If there are characters in your language that are not supported
+#. by Lato, translate this to 'off'. Do not translate into your own language.
+#: functions.php:88
+msgctxt "Playfair Display font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. by Open+Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:83
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: inc/customizer/events.php:109
+msgid "Open Link in New Window/Tab"
+msgstr "Öppna länk i nytt fönster/flik"
+
+#: inc/customizer/events.php:100
+msgid "Button Link"
+msgstr "Knapplänk"
+
+#: inc/customizer/events.php:89
+msgid "Button Text"
+msgstr "Knapptext"
+
+#: inc/customizer/events.php:16
+msgid "Events"
+msgstr "Evenemang"
+
+#: inc/customizer/timeline.php:103
+msgid "Display Date"
+msgstr "Visa datum"
+
+#: inc/customizer/events.php:54 inc/customizer/timeline.php:92
+msgid "Display Title"
+msgstr "Visa rubrik"
+
+#: inc/customizer/events.php:43 inc/customizer/timeline.php:81
+msgid "No of items"
+msgstr "Antal objekt"
+
+#: inc/customizer/timeline.php:55
+msgid "Description"
+msgstr "Beskrivning"
+
+#: inc/customizer/timeline.php:45
+msgid "Title"
+msgstr "Rubrik"
+
+#: inc/customizer/timeline.php:35
+msgid "Tagline"
+msgstr "Slogan"
+
+#: inc/customizer/events.php:25 inc/customizer/timeline.php:25
+msgid "Enable on"
+msgstr "Aktivera på"
+
+#: inc/customizer/timeline.php:16
+msgid "Timeline"
+msgstr "Tidslinje"
+
+#. translators: %s: Name of current post
+#: template-parts/hero-content/post-type-hero.php:75
+msgid "Edit %s"
+msgstr "Redigera %s"
+
+#: inc/customizer/events.php:78 inc/customizer/timeline.php:116
+#: template-parts/hero-content/post-type-hero.php:62
+msgid "Page"
+msgstr "Sida"
+
+#: template-parts/hero-content/post-type-hero.php:58
+msgid "Pages:"
+msgstr "Sidor:"
+
+#: functions.php:175
+msgid "Section Description"
+msgstr "Beskrivning för sektion"
+
+#: functions.php:165
+msgid "Section Title"
+msgstr "Rubrik för sektion"
+
+#: functions.php:155
+msgid "Section Tagline"
+msgstr "Slogan för sektion"
+
+#: inc/customizer/events.php:65
+msgid "Display Event Date"
+msgstr "Visa evenemangets datum"
+
+#: inc/customizer/events.php:38 inc/customizer/timeline.php:76
+msgid "Save and refresh the page if No. of items"
+msgstr "Spara och uppdatera sidan om inget objekt finns"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://wenthemes.com/"
+msgstr "https://wenthemes.com/"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "WEN Themes"
+msgstr "WEN Themes"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://wenthemes.com/item/wordpress-themes/signify-wedding/"
+msgstr "https://wenthemes.com/item/wordpress-themes/signify-wedding/"

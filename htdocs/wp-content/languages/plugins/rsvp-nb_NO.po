@@ -1,0 +1,492 @@
+# Translation of Plugins - RSVP and Event Management Plugin - Stable (latest release) in Norwegian (Bokmål)
+# This file is distributed under the same license as the Plugins - RSVP and Event Management Plugin - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-09-01 14:18:01+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.7\n"
+"Language: nb_NO\n"
+"Project-Id-Version: Plugins - RSVP and Event Management Plugin - Stable (latest release)\n"
+
+#: includes/rsvp_frontend.inc.php:924 includes/rsvp_frontend.inc.php:1013
+msgid "Email: "
+msgstr "E-post:"
+
+#: includes/rsvp_frontend.inc.php:222
+msgid "Hi %s it looks like you have already RSVP'd. Would you like to edit your reservation?"
+msgstr "Hei %s, det ser ut som du allerede har registrert et svar. Ønsker du å endre på noe?"
+
+#: includes/rsvp_frontend.inc.php:265
+msgid "We have the option of getting cheese pizza for the kids (and only kids).  Do you want pizza instead of \"adult food?\""
+msgstr "Vi har mulighet til å ordne pizza med ost til barna (og kun barna). Ønsker du pizza istedenfor \"voksenmat\"?"
+
+#: includes/rsvp_frontend.inc.php:267
+msgid "We also have the option of getting individual vegetarian meals instead of the fish or meat.  Would you like a vegetarian dinner?"
+msgstr "Vi har også mulighet til å tilby en vegetarmeny istedenfor fisk eller kjøtt. Ønsker du vegetarmeny?"
+
+#: includes/rsvp_frontend.inc.php:302
+msgid "So, how about it?"
+msgstr "Så, hva sier du?"
+
+#: includes/rsvp_frontend.inc.php:363
+msgid "The following people are associated with you.  At this time you can RSVP for them as well."
+msgstr "Følgende personer er tilknyttet deg. Du har mulighet til å registrere svar for dem i tillegg."
+
+#: includes/rsvp_frontend.inc.php:382
+msgid "Does %s need a kids meal?"
+msgstr "Trenger %s barnemeny?"
+
+#: includes/rsvp_frontend.inc.php:393
+msgid "Does %s need a vegetarian meal?"
+msgstr "Ønsker %s vegetarmeny?"
+
+#: includes/rsvp_frontend.inc.php:417
+msgid "Did we slip up and forget to invite someone? If so, please add him or her here:"
+msgstr "Har vi glemt å invitere noen? I så fall, legg til personen her:"
+
+#. Plugin Name of the plugin
+#: includes/rsvp_frontend.inc.php:431 includes/rsvp_frontend.inc.php:665
+msgid "RSVP"
+msgstr "Registrer svar"
+
+#: includes/rsvp_frontend.inc.php:574
+msgid "A first and last name must be specified"
+msgstr "Fornavn og etternavn må fylles ut"
+
+#: includes/rsvp_frontend.inc.php:628
+msgid "Hi"
+msgstr "Hei"
+
+#: includes/rsvp_frontend.inc.php:635 includes/rsvp_frontend.inc.php:1330
+msgid "There are a few more questions we need to ask you if you could please fill them out below to finish up the RSVP process."
+msgstr "Vi har noen ytterligere spørsmål, vennligst fyll ut disse for å fullføre registreringen av ditt svar."
+
+#: includes/rsvp_frontend.inc.php:658
+msgid "We could not find an exact match but could any of the below entries be you?"
+msgstr "Vi kunne ikke finne en eksakt treff. Kan noen av oppføringene nedenfor være deg?"
+
+#: includes/rsvp_frontend.inc.php:681
+msgid "<strong>We were unable to find anyone with a name of %1$s %2$s</strong>"
+msgstr "<strong>Vi kunne ikke finne noen ved navn %1$s %2$s</strong><br />Tips: Om du har flere etternavn, forsøk med å kun fylle inn det siste etternavnet ditt i feltet &quot;etternavn&quot;, og de andre sammen med fornavnet."
+
+#: includes/rsvp_frontend.inc.php:1296
+msgid "Welcome back %s!"
+msgstr "Velkommen tilbake %s!"
+
+#: includes/rsvp_frontend.inc.php:1363
+msgid " You have also RSVPed for - "
+msgstr " Du har også registrert svar for - "
+
+#: includes/rsvp_frontend.inc.php:1392
+msgid "<br /><br />You have also RSVPed for - "
+msgstr "<br /><br />Du har også registrert svar for - "
+
+#: includes/rsvp_frontend.inc.php:1443
+msgid "Please enter your passcode to RSVP."
+msgstr "Vennligst fyll inn ditt passord for å registrere svar på invitasjonen."
+
+#: includes/rsvp_frontend.inc.php:1445
+msgid "Please enter your first name, last name and passcode to RSVP."
+msgstr "Vennligst fyll inn ditt fornavn, etternavn og passord for å registrere svar på invitasjonen."
+
+#: includes/rsvp_frontend.inc.php:1449
+msgid "Please enter your first and last name to RSVP."
+msgstr "Vennligst fyll inn ditt fornavn og etternavn for å registrere svar på invitasjonen."
+
+#: includes/rsvp_frontend.inc.php:1461
+msgid "New Attendee Registration"
+msgstr "Registrering av ny deltager"
+
+#: includes/rsvp_frontend.inc.php:1465
+msgid "Need to modify your registration? Start with the below form."
+msgstr "Trenger du å endre på noe? Start med skjemaet nedenfor."
+
+#: includes/class-rsvp-admin.php:349 includes/class-rsvp-helper.php:264
+#: includes/class-rsvp-helper.php:591 includes/rsvp_frontend.inc.php:286
+#: includes/rsvp_frontend.inc.php:1471
+msgid "First Name"
+msgstr "Fornavn"
+
+#: includes/class-rsvp-admin.php:356 includes/class-rsvp-helper.php:264
+#: includes/class-rsvp-helper.php:592 includes/rsvp_frontend.inc.php:293
+#: includes/rsvp_frontend.inc.php:1473
+msgid "Last Name"
+msgstr "Etternavn"
+
+#: includes/class-rsvp-admin.php:371 includes/class-rsvp-helper.php:276
+#: includes/class-rsvp-helper.php:598 includes/rsvp_frontend.inc.php:1001
+#: includes/rsvp_frontend.inc.php:1477
+msgid "Passcode"
+msgstr "Passord"
+
+#: includes/rsvp_frontend.inc.php:1484
+msgid "Complete your RSVP!"
+msgstr "Fortsett"
+
+#: includes/rsvp_frontend.inc.php:1515
+msgid "Person's first name"
+msgstr "Fornavn"
+
+#: includes/rsvp_frontend.inc.php:1517
+msgid "Person's last name"
+msgstr "Etternavn"
+
+#: includes/rsvp_frontend.inc.php:1520
+msgid "Person's email address"
+msgstr "E-postadresse"
+
+#: includes/rsvp_frontend.inc.php:1523
+msgid "Will this person be attending?"
+msgstr "Kommer denne personen til å delta?"
+
+#: includes/rsvp_frontend.inc.php:1526
+msgid "Does this person need a kids meal?"
+msgstr "Trenger denne personen barnemeny?"
+
+#: includes/rsvp_frontend.inc.php:1530
+msgid "Does this person need a vegetarian meal?"
+msgstr "Ønsker denne personen vegetarmeny?"
+
+#: includes/rsvp_frontend.inc.php:1534
+msgid "Remove Guest"
+msgstr "Slett gjest"
+
+#: includes/class-rsvp-admin.php:573
+msgid "RSVP Open Date:"
+msgstr "Åpningsdato for registrering av svar:"
+
+#: includes/class-rsvp-admin.php:581
+msgid "RSVP Deadline:"
+msgstr "Frist for registrering av svar:"
+
+#: includes/class-rsvp-admin.php:600
+msgid "Custom Greeting:"
+msgstr "Egendefinert hilsen:"
+
+#: includes/class-rsvp-admin.php:609
+msgid "Custom Welcome:"
+msgstr "Egendefinert velkomstmelding:"
+
+#: includes/class-rsvp-admin.php:615
+msgid "Default is: &quot;There are a few more questions we need to ask you if you could please fill them out below to finish up the RSVP process.&quot;"
+msgstr "Standard er: &quot;Vi har noen ytterligere spørsmål, vennligst fyll ut disse for å fullføre registreringen av ditt svar.&quot;"
+
+#: includes/class-rsvp-admin.php:620
+msgid "Email Text: <br />Sent to guests in confirmation, at top of email"
+msgstr "Tekst i E-post: <br/>(Sendt i toppen av E-postbekreftelsen)"
+
+#: includes/class-rsvp-admin.php:629
+msgid "RSVP Question Verbiage:"
+msgstr "Svarsregistreringsspørsmål:"
+
+#: includes/class-rsvp-admin.php:636
+msgid "Default is: &quot;So, how about it?&quot;"
+msgstr "Standard: &quot;Så, hva sier du?&quot;"
+
+#: includes/class-rsvp-admin.php:641
+msgid "RSVP Yes Verbiage:"
+msgstr "Ja-tekst:"
+
+#: includes/class-rsvp-admin.php:652
+msgid "RSVP No Verbiage:"
+msgstr "Nei-tekst:"
+
+#: includes/class-rsvp-admin.php:663
+msgid "RSVP Kids Meal Verbiage:"
+msgstr "Barnemeny-tekst:"
+
+#: includes/class-rsvp-admin.php:675
+msgid "Hide Kids Meal Question:"
+msgstr "Skjul spørsmål om barnemeny:"
+
+#: includes/class-rsvp-admin.php:697
+msgid "RSVP Vegetarian Meal Verbiage:"
+msgstr "Vegetarmeny-tekst:"
+
+#: includes/class-rsvp-admin.php:709
+msgid "Hide Vegetarian Meal Question:"
+msgstr "Skjul spørsmål om vegetarmeny:"
+
+#: includes/class-rsvp-admin.php:730
+msgid "Note Verbiage:"
+msgstr "Notat-tekst:"
+
+#: includes/class-rsvp-admin.php:744
+msgid "Hide Note Field:"
+msgstr "Skjul notatfeltet:"
+
+#: includes/class-rsvp-admin.php:790
+msgid "Custom Thank You:"
+msgstr "Egendefinert takkemelding:"
+
+#: includes/class-rsvp-admin.php:799
+msgid "Do not allow additional guests"
+msgstr "Ikke tillat ekstra gjester"
+
+#: includes/class-rsvp-admin.php:821
+msgid "Add Additional Verbiage:"
+msgstr "Legg til ekstra person-tekst:"
+
+#: includes/class-rsvp-admin.php:829
+msgid "Default is: &quot;Did we slip up and forget to invite someone? If so, please add him or her here:&quot;"
+msgstr "Standard: &quot;Har vi glemt å invitere noen? I så fall, legg til personen her:&quot;"
+
+#: includes/class-rsvp-admin.php:834
+msgid "Notify When Guest RSVPs"
+msgstr "Varsle når en gjest registrerer sitt svar"
+
+#: includes/class-rsvp-admin.php:857
+msgid "Email address to notify"
+msgstr "E-postadresse for varsler"
+
+#: includes/class-rsvp-admin.php:866
+msgid "Send email to main guest when they RSVP"
+msgstr "Send e-post til hovedgjest ved svarsregistrering"
+
+#: includes/class-rsvp-admin.php:888
+msgid "Require a Passcode to RSVP:"
+msgstr "Krev et passord for å registrere svar:"
+
+#: includes/class-rsvp-admin.php:910
+msgid "Require only a Passcode to RSVP<br />(requires that passcodes are unique):"
+msgstr "Krev kun passord for å registrere svar<br />(passord må være unike):"
+
+#: includes/class-rsvp-admin.php:932
+msgid "Allow Open Registration (note - this will force passcodes for attendees):"
+msgstr "Tillat åpen svarsregistrering (merk - dette krever passord for deltagere):"
+
+#: includes/class-rsvp-admin.php:955
+msgid "Do not scroll page to the top of the RSVP form:"
+msgstr "Ikke rull siden til toppen av svarsregistreringsskjemaet:"
+
+#: includes/class-rsvp-admin.php:767
+msgid "Hide email field on rsvp form:"
+msgstr "Skjul e-postfeltet på svarsregistreringsskjemaet:"
+
+#: includes/class-rsvp-admin.php:977
+msgid "Do not use the specified notification email as the from email<br /> (if you are not receiving email notifications try this):"
+msgstr "Ikke bruk e-postvarsel-adressen som avsenderadresse<br /> (prøv dette hvis du ikke mottar e-postvarsler):"
+
+#: includes/class-rsvp-admin.php:1000
+msgid "Disable searching for a user when no user is found:"
+msgstr "Deaktiver søk etter deltager når det ikke er treff på person:"
+
+#: includes/class-rsvp-admin.php:192
+msgid "List of current attendees"
+msgstr "Liste over deltagere"
+
+#: includes/class-rsvp-attendees-list-table.php:99
+msgid "Attendee"
+msgstr "Deltager"
+
+#: includes/class-rsvp-admin.php:382
+#: includes/class-rsvp-attendees-list-table.php:100
+#: includes/class-rsvp-helper.php:264 includes/class-rsvp-helper.php:594
+msgid "RSVP Status"
+msgstr "Svarstatus"
+
+#: includes/class-rsvp-attendees-list-table.php:102
+#: includes/class-rsvp-attendees-list-table.php:423
+#: includes/class-rsvp-helper.php:267 includes/class-rsvp-helper.php:595
+msgid "Kids Meal"
+msgstr "Barnemeny"
+
+#: includes/class-rsvp-attendees-list-table.php:103
+#: includes/class-rsvp-helper.php:290
+msgid "Additional Attendee"
+msgstr "Ekstra deltager"
+
+#: includes/class-rsvp-attendees-list-table.php:104
+#: includes/class-rsvp-helper.php:273 includes/class-rsvp-helper.php:597
+msgid "Vegetarian"
+msgstr "Vegetarianer"
+
+#: includes/class-rsvp-admin.php:406
+msgid "Custom Message"
+msgstr "Egendefinert melding"
+
+#: includes/class-rsvp-admin.php:414 includes/class-rsvp-admin.php:418
+#: includes/class-rsvp-attendees-list-table.php:106
+#: includes/class-rsvp-helper.php:270 includes/class-rsvp-helper.php:596
+#: includes/rsvp_frontend.inc.php:950 includes/rsvp_frontend.inc.php:1040
+msgid "Associated Attendees"
+msgstr "Tilknyttede deltagere"
+
+#: includes/class-rsvp-helper.php:291
+msgid "pre-fill URL"
+msgstr "forhåndsutfylt URL"
+
+#: includes/class-rsvp-helper.php:580
+msgid "total records were imported"
+msgstr "poster ble importert"
+
+#: includes/class-rsvp-helper.php:582
+msgid "Continue to the RSVP"
+msgstr "Fortsett til svarsregistrering"
+
+#: includes/class-rsvp-helper.php:600
+msgid "Private Question Association"
+msgstr "Privat spørsmål-tilknytning"
+
+#: includes/class-rsvp-helper.php:603
+msgid "associated attendees should be separated by a comma it is assumed that the first space encountered will separate the first and last name."
+msgstr "tilknyttede deltagere skal separeres med komma. Det første mellomrommet i hvert navn vil dele opp navnet i fornavn og etternavn."
+
+#: includes/class-rsvp-admin.php:301
+msgid "Continue to Attendee List"
+msgstr "Fortsett til deltagerliste"
+
+#: includes/class-rsvp-admin.php:303
+msgid "Add a Guest"
+msgstr "Legg til en gjest"
+
+#: includes/class-rsvp-admin.php:390
+msgid "No Response"
+msgstr "Ikke svart"
+
+#: includes/class-rsvp-admin.php:450
+msgid "Custom Questions Answered"
+msgstr "Svar på egendefinerte spørsmål"
+
+#: includes/class-rsvp-admin.php:454
+#: includes/class-rsvp-questions-list-table.php:75 wp-rsvp.php:455
+msgid "Question"
+msgstr "Spørsmål"
+
+#: includes/class-rsvp-admin.php:455 wp-rsvp.php:392 wp-rsvp.php:491
+msgid "Answer"
+msgstr "Svar"
+
+#: includes/class-rsvp-admin.php:506
+msgid "List of current custom questions"
+msgstr "Liste over egendefinerte spørsmål"
+
+#: includes/class-rsvp-questions-list-table.php:76 wp-rsvp.php:470
+msgid "Private Import Key"
+msgstr "Privat-importnøkkel"
+
+#: wp-rsvp.php:328
+msgid "Custom Question saved"
+msgstr "Egendefinert spørsmål lagret"
+
+#: wp-rsvp.php:331
+msgid "Continue to Question List"
+msgstr "Fortsett til spørsmålsliste"
+
+#: wp-rsvp.php:343
+msgid "Add another Question"
+msgstr "Legg til et annet spørsmål"
+
+#: wp-rsvp.php:443
+msgid "Question Type"
+msgstr "Spørsmålstype"
+
+#: wp-rsvp.php:461
+msgid "Question Permission Level"
+msgstr "Tilgangsnivå for spørsmål"
+
+#: wp-rsvp.php:478
+msgid "Answers"
+msgstr "Svar"
+
+#: wp-rsvp.php:480
+msgid "Add new Answer"
+msgstr "Legg til nytt svar"
+
+#: wp-rsvp.php:513
+msgid "Attendees allowed to answer this question"
+msgstr "Deltagere tillatt å svare på dette spørsmålet"
+
+#: wp-rsvp.php:636
+msgid "Please enter an email address that we can use to contact you about the extra guest.  We have to keep a pretty close eye on the number of attendees.  Thanks!"
+msgstr "Vennligst fyll inn en e-postadresse vi kan kontakte deg på angående den ekstra gjesten. Vi er nødt til å holde et øye med antall deltagere. Takk!"
+
+#: wp-rsvp.php:637
+msgid "If you are adding additional RSVPs please enter your email address in case we have questions"
+msgstr "Hvis du legger til ytterligere deltagere, vennligst fyll inn din e-postadresse som vi kan kontakte deg på om vi har noen spørsmål"
+
+#: wp-rsvp.php:638 wp-rsvp.php:640 wp-rsvp.php:642 wp-rsvp.php:645
+msgid "Please enter a last name"
+msgstr "Vennligst fyll inn etternavn"
+
+#: wp-rsvp.php:639 wp-rsvp.php:641 wp-rsvp.php:643 wp-rsvp.php:644
+msgid "Please enter a first name"
+msgstr "Vennligst fyll inn fornavn"
+
+#: wp-rsvp.php:646
+msgid "Please enter your first name"
+msgstr "Vennligst fyll inn ditt fornavn"
+
+#: wp-rsvp.php:647
+msgid "Please enter your last name"
+msgstr "Vennligst fyll inn ditt etternavn"
+
+#: wp-rsvp.php:648
+msgid "Please enter your password"
+msgstr "Vennligst fyll inn ditt passord"
+
+#: includes/class-rsvp-helper.php:583
+msgid "list"
+msgstr "Liste"
+
+#: includes/class-rsvp-attendees-list-table.php:105
+#: includes/class-rsvp-helper.php:278 includes/class-rsvp-helper.php:599
+msgid "Note"
+msgstr "Merk"
+
+#: includes/class-rsvp-list-table.php:502
+msgid "Apply"
+msgstr "Utfør"
+
+#: includes/class-rsvp-list-table.php:492
+msgid "Bulk Actions"
+msgstr "Bulk handling"
+
+#: includes/rsvp_frontend.inc.php:340 includes/rsvp_frontend.inc.php:404
+#: includes/rsvp_frontend.inc.php:1481
+msgid "Email Address"
+msgstr "E-postadresse:"
+
+#: includes/class-rsvp-admin.php:395
+#: includes/class-rsvp-attendees-list-table.php:231
+#: includes/class-rsvp-attendees-list-table.php:234
+#: includes/class-rsvp-attendees-list-table.php:237
+#: includes/class-rsvp-attendees-list-table.php:414
+#: includes/rsvp_frontend.inc.php:230 includes/rsvp_frontend.inc.php:258
+#: includes/rsvp_frontend.inc.php:1501
+msgid "Yes"
+msgstr "Ja"
+
+#: includes/class-rsvp-admin.php:400
+#: includes/class-rsvp-attendees-list-table.php:231
+#: includes/class-rsvp-attendees-list-table.php:234
+#: includes/class-rsvp-attendees-list-table.php:237
+#: includes/class-rsvp-attendees-list-table.php:417
+#: includes/rsvp_frontend.inc.php:231 includes/rsvp_frontend.inc.php:259
+#: includes/rsvp_frontend.inc.php:1502
+msgid "No"
+msgstr "Nei"
+
+#: includes/class-rsvp-admin.php:1059
+msgid "Save Changes"
+msgstr "Lagre endringer"
+
+#: includes/class-rsvp-attendees-list-table.php:205
+#: includes/class-rsvp-attendees-list-table.php:378
+#: includes/class-rsvp-questions-list-table.php:152
+#: includes/class-rsvp-questions-list-table.php:299 wp-rsvp.php:500
+msgid "Delete"
+msgstr "Slett"
+
+#: includes/class-rsvp-admin.php:345 includes/class-rsvp-admin.php:476
+#: wp-rsvp.php:439
+msgid "Save"
+msgstr "Lagre"
+
+#: includes/class-rsvp-admin.php:362 includes/class-rsvp-helper.php:264
+#: includes/class-rsvp-helper.php:593
+msgid "Email"
+msgstr "E-post"
